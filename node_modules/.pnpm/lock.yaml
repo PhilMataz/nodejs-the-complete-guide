@@ -1,5 +1,10 @@
 lockfileVersion: '6.0'
 
+dependencies:
+  node_modules:
+    specifier: link:node_modules
+    version: link:node_modules
+
 devDependencies:
   nodemon:
     specifier: ^3.0.1
